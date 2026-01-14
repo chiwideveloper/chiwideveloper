@@ -12,8 +12,6 @@ Welcome to my profile!
   <img src="https://readme-typing-svg.herokuapp.com?color=D31C5B&size=32&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+Developer;Frontend+%26+Backend;Game+Developer" alt="Headline" />
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/204955/screenshots/15460685/media/062f995c3f4e09119a27b5c1bbfcbdbb.gif">
-
 ## 💻 About Me
 
 🔭 Currently working at Minsait on a web development project for enterprise management.  
