@@ -16,7 +16,7 @@ Full-stack B2B platform: AI chatbot with streaming, review responses, email clas
 Branded landing pages with embedded AI chatbot widgets for real businesses (fitness & real estate), built on a shared design system.
 
 ### Pozanco — PSX-style Horror Game 🎮
-Indie horror walking simulator built in Unity + Blender, releasing August 2026. Custom low-poly 3D assets, palette texture atlases and PSX-era rendering.
+Indie horror walking simulator built in Unity + Blender, releasing 2027. Custom low-poly 3D assets, palette texture atlases and PSX-era rendering.
 
 ## 🛠️ Stack
 
