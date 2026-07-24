@@ -20,8 +20,8 @@ Indie horror walking simulator built in Unity + Blender, releasing 2027. Custom 
 
 ## 🛠️ Stack
 
-**Backend:** Java · Spring Boot · REST APIs · PostgreSQL · JWT  
-**Frontend:** Next.js · React · TypeScript · Angular · Ionic · Tailwind  
+**Backend:** Java · Spring Boot · REST APIs · PostgreSQL · JWT
+**Frontend:** Vue.js · Next.js · React · TypeScript · Angular · Ionic · Tailwind
 **DevOps:** Docker · Nginx · Linux VPS · GitHub Actions  
 **Other:** Unity · C# · Blender · Stripe API · Claude API
 
