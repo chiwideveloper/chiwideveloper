@@ -7,16 +7,16 @@ I build and ship complete products: from backend architecture to production depl
 ## 🚀 Featured Work
 
 ### [Automify — AI-powered Business Automation SaaS](https://github.com/chiwideveloper/automify-showcase)
-Full-stack B2B platform: AI chatbot with streaming, review responses, email classification, document extraction and content generation.
+AI chatbot with streaming, review responses, email classification, document extraction and content generation.
 - **Stack:** Spring Boot · Next.js · PostgreSQL · Docker Compose · Nginx
 - **Production:** multi-tenant architecture, Stripe billing, JWT + session auth, deployed on a Hetzner VPS
-- 🔗 [Live demo](https://claude-automation.duckdns.org) · [Architecture & case study](https://github.com/chiwideveloper/automify-showcase)
+- 🔗 [Demo](https://claude-automation.duckdns.org) · [Architecture & case study](https://github.com/chiwideveloper/automify-showcase)
 
 ### Client Work (Freelance)
 Branded landing pages with embedded AI chatbot widgets for real businesses (fitness & real estate), built on a shared design system.
 
 ### Pozanco — PSX-style Horror Game 🎮
-Indie horror walking simulator built in Unity + Blender, releasing 2027. Custom low-poly 3D assets, palette texture atlases and PSX-era rendering.
+Indie horror walking simulator built in Unity + Blender, in development. Custom low-poly 3D assets, palette texture atlases and PSX-era rendering.
 
 ## 🛠️ Stack
 
