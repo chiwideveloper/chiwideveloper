@@ -1,6 +1,6 @@
 # Hi, I'm Chiwi 👋
 
-**Full Stack Developer** — Java/Spring Boot · Next.js/React · Angular
+**Full Stack Developer** — Java/Spring Boot · Vue.js · Next.js/React
 
 I build and ship complete products: from backend architecture to production deployment. Currently working on enterprise web development at Minsait (Indra), while building SaaS products and freelance projects on the side.
 
